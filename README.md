@@ -12,7 +12,7 @@ $ pkg install python2
 
 $ pkg install git
 
-$ git clone https://github.com/mrlinkerrorsystem/hackfbpro
+$ git clone https://github.com/AsepAMF/hackfbpro
 
 $ cd hackfbpro
 
